@@ -1,0 +1,20 @@
+residue and atom classes are good
+
+protein class unwieldy 
+
+CentroidProtein centroid_protein.py
+
+energy class energy.py
+
+draw in from np file
+
+static table
+
+engine 
+
+save run time
+
+secondary structure information TPP_Engine toppropack
+
+visualizer class
+changing streamlit - streamlit doesn't seem to be very portable
